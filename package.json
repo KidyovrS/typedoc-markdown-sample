@@ -1,0 +1,15 @@
+{
+  "name": "typedoc-markdown-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typedoc": "^0.11.1",
+    "typedoc-plugin-markdown": "^1.1.4"
+  }
+}
