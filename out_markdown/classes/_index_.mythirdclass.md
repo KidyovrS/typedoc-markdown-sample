@@ -22,15 +22,15 @@
 
 <a id="constructor"></a>
 
-### ⊕ **new MyThirdClass**(arg: *`Array`.<[MySecondClass](_index_.mysecondclass.md)[MyFirstClass](_index_.myfirstclass.md)>*): [MyThirdClass](_index_.mythirdclass.md)
+### ⊕ **new MyThirdClass**(arg: *[MyFourthClass](_index_.myfourthclass.md)<[MyFirstClass](_index_.myfirstclass.md)>, <[MySecondClass](_index_.mysecondclass.md)<[MyFirstClass](_index_.myfirstclass.md)>>*): [MyThirdClass](_index_.mythirdclass.md)
 
-*Defined in index.ts:7*
+*Defined in [index.ts:7](https://github.com/KidyovrS/typedoc-markdown-sample/blob/50c8b8c/index.ts#L7)*
 
 **Parameters:**
 
-| Param | Type | Description |
-| ------ | ------ | ------ |
-| arg | `Array`.<[MySecondClass](_index_.mysecondclass.md)[MyFirstClass](_index_.myfirstclass.md)>   |  - |
+| Param | Type |
+| ------ | ------ |
+| arg | [MyFourthClass](_index_.myfourthclass.md)<[MyFirstClass](_index_.myfirstclass.md)>, <[MySecondClass](_index_.mysecondclass.md)<[MyFirstClass](_index_.myfirstclass.md)>> | 
 
 **Returns:** [MyThirdClass](_index_.mythirdclass.md)
 
@@ -42,9 +42,9 @@
 
 ###  arg
 
-**●  arg**:  *`Array`.<[MySecondClass](_index_.mysecondclass.md)[MyFirstClass](_index_.myfirstclass.md)>* 
+**● arg**: *[MyFourthClass](_index_.myfourthclass.md)<[MyFirstClass](_index_.myfirstclass.md)>, <[MySecondClass](_index_.mysecondclass.md)<[MyFirstClass](_index_.myfirstclass.md)>>*
 
-*Defined in index.ts:8*
+*Defined in [index.ts:8](https://github.com/KidyovrS/typedoc-markdown-sample/blob/50c8b8c/index.ts#L8)*
 
 ___
 
